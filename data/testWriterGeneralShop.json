@@ -1,0 +1,45 @@
+{
+    "inventory": [
+        {
+            "image": "./data/Product Images/test logo.png",
+            "price": 20.5,
+            "name": "chair",
+            "id": 0,
+            "quantitySold": 0
+        },
+        {
+            "image": "./data/Product Images/test logo.png",
+            "price": 100,
+            "name": "closet",
+            "id": 1,
+            "quantitySold": 0
+        },
+        {
+            "image": "./data/Product Images/test logo.png",
+            "price": 2,
+            "name": "bulb",
+            "id": 2,
+            "quantitySold": 0
+        }
+    ],
+    "product categories": [{
+        "number of times visited": 0,
+        "category name": "furniture",
+        "products in category": [
+            {
+                "image": "./data/Product Images/test logo.png",
+                "price": 20.5,
+                "name": "chair",
+                "id": 0,
+                "quantitySold": 0
+            },
+            {
+                "image": "./data/Product Images/test logo.png",
+                "price": 100,
+                "name": "closet",
+                "id": 1,
+                "quantitySold": 0
+            }
+        ]
+    }]
+}

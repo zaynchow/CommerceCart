@@ -1,0 +1,50 @@
+{
+    "inventory": [
+        {
+            "price": 28,
+            "name": "apple",
+            "id": 0,
+            "quantitySold": 0
+        },
+        {
+            "price": 35,
+            "name": "peach",
+            "id": 1,
+            "quantitySold": 0
+        },
+        {
+            "price": 20,
+            "name": "table",
+            "id": 2,
+            "quantitySold": 2
+        }
+    ],
+    "product categories": [
+        {
+            "category name": "Grocery",
+            "products in category": [
+                {
+                    "price": 28,
+                    "name": "apple",
+                    "id": 0,
+                    "quantitySold": 0
+                },
+                {
+                    "price": 35,
+                    "name": "peach",
+                    "id": 1,
+                    "quantitySold": 0
+                }
+            ]
+        },
+        {
+            "category name": "Furniture",
+            "products in category": [{
+                "price": 20,
+                "name": "table",
+                "id": 2,
+                "quantitySold": 1
+            }]
+        }
+    ]
+}

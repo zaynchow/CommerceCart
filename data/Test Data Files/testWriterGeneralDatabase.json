@@ -1,0 +1,26 @@
+{
+  "admin": {
+    "password": 22685664,
+    "gender": "m",
+    "location": "Ontario",
+    "allPastOrders": [],
+    "age": 34,
+    "username": "admin"
+  },
+  "customer": {
+    "password": 901170415,
+    "gender": "f",
+    "location": "British Columbia",
+    "allPastOrders": [
+      {
+        "image": "./data/Product Images/peach.png",
+        "price": 35,
+        "name": "peach",
+        "id": 0,
+        "quantitySold": 0
+      }
+    ],
+    "age": 20,
+    "username": "customer"
+  }
+}

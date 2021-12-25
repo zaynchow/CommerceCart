@@ -1,0 +1,88 @@
+{
+  "inventory": [
+    {
+      "image": "./data/Product Images/RDR2.png",
+      "price": 80,
+      "name": "RDR2",
+      "id": 0,
+      "quantitySold": 0
+    },
+    {
+      "image": "./data/Product Images/Call Of Duty.png",
+      "price": 65,
+      "name": "Call Of Duty",
+      "id": 1,
+      "quantitySold": 3
+    },
+    {
+      "image": "./data/Product Images/Last Of Us.png",
+      "price": 70,
+      "name": "Last Of Us",
+      "id": 2,
+      "quantitySold": 0
+    },
+    {
+      "image": "./data/Product Images/GTA V.png",
+      "price": 20,
+      "name": "GTA V",
+      "id": 3,
+      "quantitySold": 0
+    },
+    {
+      "image": "./data/Product Images/Destiny 2.png",
+      "price": 40.5,
+      "name": "Destiny 2",
+      "id": 4,
+      "quantitySold": 0
+    }
+  ],
+  "product categories": [
+    {
+      "number of times visited": 2,
+      "category name": "Action",
+      "products in category": [
+        {
+          "image": "./data/Product Images/RDR2.png",
+          "price": 80,
+          "name": "RDR2",
+          "id": 0,
+          "quantitySold": 0
+        },
+        {
+          "image": "./data/Product Images/Call Of Duty.png",
+          "price": 65,
+          "name": "Call Of Duty",
+          "id": 1,
+          "quantitySold": 3
+        },
+        {
+          "image": "./data/Product Images/Last Of Us.png",
+          "price": 70,
+          "name": "Last Of Us",
+          "id": 2,
+          "quantitySold": 0
+        }
+      ]
+    },
+    {
+      "number of times visited": 2,
+      "category name": "Adventure",
+      "products in category": [
+        {
+          "image": "./data/Product Images/GTA V.png",
+          "price": 20,
+          "name": "GTA V",
+          "id": 3,
+          "quantitySold": 0
+        },
+        {
+          "image": "./data/Product Images/Destiny 2.png",
+          "price": 40.5,
+          "name": "Destiny 2",
+          "id": 4,
+          "quantitySold": 0
+        }
+      ]
+    }
+  ]
+}

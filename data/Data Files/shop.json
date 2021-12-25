@@ -1,0 +1,142 @@
+{
+    "inventory": [
+        {
+            "image": "./data/Product Images/Call Of Duty.png",
+            "price": 65,
+            "name": "Call Of Duty",
+            "id": 0,
+            "quantitySold": 0
+        },
+        {
+            "image": "./data/Product Images/Last Of Us.png",
+            "price": 70,
+            "name": "Last Of Us",
+            "id": 1,
+            "quantitySold": 1
+        },
+        {
+            "image": "./data/Product Images/GTA V.png",
+            "price": 20,
+            "name": "GTA V",
+            "id": 2,
+            "quantitySold": 0
+        },
+        {
+            "image": "./data/Product Images/Destiny 2.png",
+            "price": 40.5,
+            "name": "Destiny 2",
+            "id": 3,
+            "quantitySold": 0
+        },
+        {
+            "image": "./data/Product Images/Sonic Forces.png",
+            "price": 34.5,
+            "name": "Sonic Forces",
+            "id": 4,
+            "quantitySold": 0
+        },
+        {
+            "image": "./data/Product Images/Rayman .png",
+            "price": 67.8,
+            "name": "Rayman ",
+            "id": 5,
+            "quantitySold": 0
+        },
+        {
+            "image": "./data/Product Images/Fifa 22.png",
+            "price": 80.5,
+            "name": "Fifa 22",
+            "id": 6,
+            "quantitySold": 0
+        }
+    ],
+    "product categories": [
+        {
+            "number of times visited": 12,
+            "category name": "Action",
+            "products in category": [
+                {
+                    "image": "./data/Product Images/RDR2.png",
+                    "price": 80,
+                    "name": "RDR2",
+                    "id": 0,
+                    "quantitySold": 0
+                },
+                {
+                    "image": "./data/Product Images/Call Of Duty.png",
+                    "price": 65,
+                    "name": "Call Of Duty",
+                    "id": 1,
+                    "quantitySold": 0
+                },
+                {
+                    "image": "./data/Product Images/Last Of Us.png",
+                    "price": 70,
+                    "name": "Last Of Us",
+                    "id": 2,
+                    "quantitySold": 0
+                }
+            ]
+        },
+        {
+            "number of times visited": 24,
+            "category name": "Adventure",
+            "products in category": [
+                {
+                    "image": "./data/Product Images/GTA V.png",
+                    "price": 20,
+                    "name": "GTA V",
+                    "id": 3,
+                    "quantitySold": 0
+                },
+                {
+                    "image": "./data/Product Images/Destiny 2.png",
+                    "price": 40.5,
+                    "name": "Destiny 2",
+                    "id": 4,
+                    "quantitySold": 0
+                }
+            ]
+        },
+        {
+            "number of times visited": 21,
+            "category name": "Arcade",
+            "products in category": [
+                {
+                    "image": "./data/Product Images/Sonic Forces.png",
+                    "price": 34.5,
+                    "name": "Sonic Forces",
+                    "id": 5,
+                    "quantitySold": 0
+                },
+                {
+                    "image": "./data/Product Images/Rayman .png",
+                    "price": 67.8,
+                    "name": "Rayman ",
+                    "id": 6,
+                    "quantitySold": 0
+                }
+            ]
+        },
+        {
+            "number of times visited": 14,
+            "category name": "Sports",
+            "products in category": [
+                {
+                    "image": "./data/Product Images/Fifa 22.png",
+                    "price": 80.5,
+                    "name": "Fifa 22",
+                    "id": 7,
+                    "quantitySold": 0
+                },
+                {
+                    "image": "./data/Product Images/NBA 2K20.png",
+                    "price": 60.5,
+                    "name": "NBA 2K20",
+                    "id": 8,
+                    "quantitySold": 0
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,245 @@
+{
+    "zaynchowdhury": {
+        "password": 1601,
+        "gender": "m",
+        "allPastOrders": [
+            {
+                "image": "./data/Product Images/RDR2.png",
+                "price": 80,
+                "name": "RDR2",
+                "quantitySold": 0,
+                "id": 0
+            },
+            {
+                "image": "./data/Product Images/RDR2.png",
+                "price": 80,
+                "name": "RDR2",
+                "quantitySold": 0,
+                "id": 0
+            },
+            {
+                "image": "./data/Product Images/Call Of Duty.png",
+                "price": 65,
+                "name": "Call Of Duty",
+                "quantitySold": 0,
+                "id": 1
+            }
+        ],
+        "location": "British Columbia",
+        "age": 23,
+        "username": "zaynchowdhury"
+    },
+    "kevin": {
+        "password": 99162322,
+        "gender": "m",
+        "allPastOrders": [{
+            "image": "./data/Product Images/test logo.png",
+            "price": 20,
+            "name": "table",
+            "quantitySold": 2,
+            "id": 2
+        }],
+        "location": "Ontario",
+        "age": 12,
+        "username": "kevin"
+    },
+    "adam": {
+        "password": 1576,
+        "gender": "m",
+        "allPastOrders": [
+            {
+                "image": "./data/Product Images/Last Of Us.png",
+                "price": 70,
+                "name": "Last Of Us",
+                "quantitySold": 1,
+                "id": 2
+            },
+            {
+                "image": "./data/Product Images/Call Of Duty.png",
+                "price": 65,
+                "name": "Call Of Duty",
+                "quantitySold": 0,
+                "id": 1
+            },
+            {
+                "image": "./data/Product Images/RDR2.png",
+                "price": 80,
+                "name": "RDR2",
+                "quantitySold": 0,
+                "id": 0
+            },
+            {
+                "image": "./data/Product Images/Call Of Duty.png",
+                "price": 65,
+                "name": "Call Of Duty",
+                "quantitySold": 0,
+                "id": 1
+            }
+        ],
+        "location": "British Columbia",
+        "age": 19,
+        "username": "adam"
+    },
+    "zayn": {
+        "password": -1114623131,
+        "gender": "m",
+        "allPastOrders": [],
+        "location": "British Columbia",
+        "age": 20,
+        "username": "zayn"
+    },
+    "naaimur": {
+        "password": 1576,
+        "gender": "m",
+        "allPastOrders": [],
+        "location": "British Columbia",
+        "age": 19,
+        "username": "naaimur"
+    },
+    "mushfirat": {
+        "password": 1576,
+        "gender": "f",
+        "allPastOrders": [],
+        "location": "Alberta",
+        "age": 19,
+        "username": "mushfirat"
+    },
+    "nehreen": {
+        "password": 1576,
+        "gender": "f",
+        "allPastOrders": [],
+        "location": "British Columbia",
+        "age": 19,
+        "username": "nehreen"
+    },
+    "admin": {
+        "password": 22685664,
+        "gender": "m",
+        "allPastOrders": [],
+        "location": "Alberta",
+        "age": 20,
+        "username": "admin"
+    },
+    "raj": {
+        "password": 112667,
+        "gender": "f",
+        "allPastOrders": [{
+            "image": "./data/Product Images/test logo.png",
+            "price": 20,
+            "name": "table",
+            "quantitySold": 1,
+            "id": 2
+        }],
+        "location": "Ontario",
+        "age": 19,
+        "username": "raj"
+    },
+    "testuser1": {
+        "password": -1145792675,
+        "gender": "m",
+        "allPastOrders": [{
+            "image": "./data/Product Images/Call Of Duty.png",
+            "price": 65,
+            "name": "Call Of Duty",
+            "quantitySold": 0,
+            "id": 1
+        }],
+        "location": "British Columbia",
+        "age": 12,
+        "username": "testuser1"
+    },
+    "Robin": {
+        "password": 1634,
+        "gender": "f",
+        "allPastOrders": [],
+        "location": "British Columbia",
+        "age": 35,
+        "username": "Robin"
+    },
+    "customer": {
+        "password": 901170415,
+        "gender": "m",
+        "allPastOrders": [
+            {
+                "image": "./data/Product Images/test logo.png",
+                "price": 35,
+                "name": "peach",
+                "quantitySold": 1,
+                "id": 1
+            },
+            {
+                "image": "./data/Product Images/test logo.png",
+                "price": 20,
+                "name": "table",
+                "quantitySold": 2,
+                "id": 2
+            },
+            {
+                "image": "./data/Product Images/test logo.png",
+                "price": 35,
+                "name": "peach",
+                "quantitySold": 1,
+                "id": 1
+            },
+            {
+                "image": "./data/Product Images/test logo.png",
+                "price": 35,
+                "name": "peach",
+                "quantitySold": 2,
+                "id": 1
+            },
+            {
+                "image": "./data/Product Images/test logo.png",
+                "price": 28,
+                "name": "apple",
+                "quantitySold": 1,
+                "id": 0
+            },
+            {
+                "image": "./data/Product Images/test logo.png",
+                "price": 35,
+                "name": "peach",
+                "quantitySold": 2,
+                "id": 1
+            },
+            {
+                "image": "./data/Product Images/test logo.png",
+                "price": 20,
+                "name": "table",
+                "quantitySold": 2,
+                "id": 2
+            },
+            {
+                "image": "./data/Product Images/Red Dead 3.png",
+                "price": 23,
+                "name": "Red Dead 3",
+                "quantitySold": 0,
+                "id": 3
+            },
+            {
+                "image": "./data/Product Images/Last Of Us.png",
+                "price": 70,
+                "name": "Last Of Us",
+                "quantitySold": 0,
+                "id": 2
+            },
+            {
+                "image": "./data/Product Images/Call Of Duty.png",
+                "price": 65,
+                "name": "Call Of Duty",
+                "quantitySold": 0,
+                "id": 1
+            },
+            {
+                "image": "./data/Product Images/Last Of Us.png",
+                "price": 70,
+                "name": "Last Of Us",
+                "quantitySold": 1,
+                "id": 2
+            }
+        ],
+        "location": "Alberta",
+        "age": 40,
+        "username": "customer"
+    }
+}

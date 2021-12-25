@@ -1,0 +1,26 @@
+{
+  "admin": {
+    "password": 22685664,
+    "gender": "m",
+    "location": "Alberta",
+    "allPastOrders": [],
+    "age": 20,
+    "username": "admin"
+  },
+  "customer": {
+    "password": 901170415,
+    "gender": "f",
+    "location": "Alberta",
+    "allPastOrders": [
+      {
+        "image": "./data/Product Images/GTA V.png",
+        "price": 20,
+        "name": "GTA V",
+        "id": 3,
+        "quantitySold": 0
+      }
+    ],
+    "age": 40,
+    "username": "customer"
+  }
+}
